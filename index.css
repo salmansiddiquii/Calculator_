@@ -50,7 +50,7 @@ input:hover {
   color: rgb(0, 0, 0);
   border-radius: 30px;
   border: none;
-  box-shadow: 2px 2px 2px 2px;
+  box-shadow: 1px 1px 1px 1px;
 }
 
 /* It is used to display the numbers, operations and results. */
